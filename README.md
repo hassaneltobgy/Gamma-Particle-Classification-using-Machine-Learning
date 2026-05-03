@@ -13,3 +13,6 @@ Multiple classical machine learning models are implemented and evaluated, includ
 In addition to classical models, a neural network is built using TensorFlow. Different hyperparameters such as number of nodes, dropout rate, learning rate, and batch size are tested to find the best configuration. Model performance is analyzed using accuracy and loss curves.
 
 This project demonstrates a complete machine learning pipeline from data preprocessing to model evaluation and comparison.
+
+#Dataset Credits :
+https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope
