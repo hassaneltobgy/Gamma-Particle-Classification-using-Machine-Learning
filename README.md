@@ -14,5 +14,5 @@ In addition to classical models, a neural network is built using TensorFlow. Dif
 
 This project demonstrates a complete machine learning pipeline from data preprocessing to model evaluation and comparison.
 
-#Dataset Credits :
+# Dataset Credits :
 https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope
